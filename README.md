@@ -1,6 +1,6 @@
 Na pasta projetoForms digite:
 <br>
-``` npm i ``` 
+``` pnpm i ``` 
 <br>
 ``` pnpm run dev ``` 
 <br>
