@@ -1,6 +1,6 @@
 Na pasta projetoForms digite:
 <br>
-``` pnpm install ``` 
+``` npm i ``` 
 <br>
 ``` pnpm run dev ``` 
 <br>
